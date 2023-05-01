@@ -1,0 +1,8 @@
+{
+  "interface": {
+    "name": "eth0",
+    "ip_address": "10.0.0.2",
+    "subnet_mask": "255.255.255.0",
+    "gateway": "10.0.0.1"
+  }
+}
