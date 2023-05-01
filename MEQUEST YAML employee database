@@ -1,0 +1,13 @@
+employees:
+  - name: Emmy Joe
+    position: Computer Analyst
+    department: Computer Science
+    salary: 60000
+  - name: Sammy Jack
+    position: Hiring Manager
+    department: Human Resource
+    salary: 80000
+  - name: Claire Jane
+    position: Sales Representative
+    department: Sales
+    salary: 85000
