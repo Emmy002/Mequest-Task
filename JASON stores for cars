@@ -1,0 +1,22 @@
+{
+  "cars": [
+    {
+      "make": "Hyunda",
+      "model": "Sonata",
+      "year": 2022,
+      "features": ["Bluetooth connectivity", "Backup camera", "Adaptive cruise control"]
+    },
+    {
+      "make": "Toyota",
+      "model": "Land Crusier",
+      "year": 2021,
+      "features": ["Apple CarPlay", "Android Auto", "Blind spot monitoring"]
+    },
+    {
+      "make": "Ford",
+      "model": "Explorer",
+      "year": 2023,
+      "features": ["Rear-wheel drive", "Track-ready suspension", "Heated and cooled seats"]
+    }
+  ]
+}
